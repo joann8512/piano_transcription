@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Piano transcription using pretrained model
-The easiest way is to transcribe a new piano recording is to install the piano_transcription_inference package: https://github.com/qiuqiangkong/piano_transcription_inference with pip as follows: 
+The easiest way to transcribe a new piano recording is to install the piano_transcription_inference package: https://github.com/qiuqiangkong/piano_transcription_inference with pip as follows: 
 
 ```
 pip install piano_transcription_inference
